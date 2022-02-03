@@ -2,26 +2,25 @@
 and i dont know how to make it more easy
  
 ## how to test the server funktionality
-in "backend"
+open folder "backend" in a console/terminal
 
-in console/terminal "npm i"
+type "npm i"
 
-in console/terminal "node .\server.js"
+type "node .\server.js"
 
 ## how to test the vue&vite funktionality with server
-in "frontend/viteEdit"
+open folder "frontend/viteEdit" in a console/terminal
 
-in console/terminal "npm i"
+type "npm i"
 
-in console/terminal "npm run build"
+type "node "npm run build"
 
 
+open folder "backend" in a console/terminal
 
-in "backend"
+type "npm i"
 
-in console/terminal "npm i"
-
-in console/terminal "node .\server.js"
+type "node .\server.js"
 
 
 
