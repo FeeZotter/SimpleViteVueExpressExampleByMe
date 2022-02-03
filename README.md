@@ -27,8 +27,9 @@ type "node .\server.js"
 ### Readme.md´s
 backend has none, it is too simple
 
-frontend has one in "viteEdit" because it is needed
+frontend has one with an info what the folders contain
 
+and a warning to use the readme in viteEdit
 
 
 thanks for reading 
