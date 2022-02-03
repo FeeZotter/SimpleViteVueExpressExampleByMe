@@ -12,7 +12,7 @@ in console/terminal node .\server.js
 
 there is an already working vite build in root
 
-root needs not to be edited
+root don´t need edits
 
 ## how to test the vue&vite funktionality with server
 in "frontend/viteEdit"
