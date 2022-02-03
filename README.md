@@ -32,4 +32,4 @@ frontend has one in "viteEdit" because it is needed
 
 
 thanks for reading 
-> hopefully
+
