@@ -18,7 +18,7 @@ module.exports = defineConfig({
         index: resolve(__dirname, "index.html"),
         example: resolve(__dirname, "example/index.html"),
         example2: resolve(__dirname, "example2/index.html"),
-//      copyMe: resolve(__dirname, "test/copyMe.html"),
+        copyMe: resolve(__dirname, "copyMe/index.html"),
       },
     },
   },

@@ -1,1 +1,0 @@
-import{H as e,_ as s}from"./HelloWorld.5c126f70.js";import{o as a,c as l,a as o,b as r,d as t}from"./vendor.9e72a623.js";const n=r("img",{alt:"Vue logo",src:s},null,-1),_={setup(c){return(p,m)=>(a(),l("div",null,[n,o(e,{msg:"login"}),o(e,{msg:"nogin"}),o(e,{msg:"login"}),o(e,{msg:"login"})]))}};t(_).mount("#app");
