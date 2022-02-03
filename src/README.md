@@ -4,30 +4,24 @@ and i dont know how to make it more easy
 ## how to test the server funktionality
 in "backend"
 
-in console/terminal npm i
+in console/terminal "npm i"
 
-in console/terminal node .\server.js
-
-
-
-there is an already working vite build in root
-
-root don´t need edits
+in console/terminal "node .\server.js"
 
 ## how to test the vue&vite funktionality with server
 in "frontend/viteEdit"
 
-in console/terminal npm i
+in console/terminal "npm i"
 
-in console/terminal npm run build
+in console/terminal "npm run build"
 
 
 
 in "backend"
 
-in console/terminal npm i
+in console/terminal "npm i"
 
-in console/terminal node .\server.js
+in console/terminal "node .\server.js"
 
 
 
