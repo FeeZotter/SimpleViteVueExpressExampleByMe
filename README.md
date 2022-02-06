@@ -8,7 +8,7 @@ as a base it uses the content of "frontend/viteEdit"
 
 vue is a framework that provides html, css & js in a single file and every file can be used as a module in other sites
 
-at example making the file "footer.vue" and only adding <Footer/> (+ import) somewhere in the code and you have a standatr footer everywhere
+at example making the file "footer.vue" and only adding /<Footer//> (+ import) somewhere in the code and you have a standatr footer everywhere
 
 ## what you need
 
