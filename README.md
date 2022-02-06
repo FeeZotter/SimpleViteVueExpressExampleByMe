@@ -78,7 +78,7 @@ in "src/frontend/viteBuild" in console type 'npm run build'
 start editing the files in "src/frontend/viteBuild/src/"
 
 
-## how thinks work (complicated because i can´t explain)
+## how things work (complicated because i can´t explain)
 Step 1. The "vite.config.js" looks for the given sites, where it looks for HTML files
 
 // what is needed for multiple sites
