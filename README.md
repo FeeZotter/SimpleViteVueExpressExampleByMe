@@ -10,6 +10,20 @@ vue is a framework that provides html, css & js in a single file and every file 
 
 at example making the file "footer.vue" and only adding /<Footer//> (+ import) somewhere in the code and you have a standard footer everywhere you need even multiple
 
+# content (links are get added)
+
+what you need
+
+how to test the vue&vite funktionality with server
+
+how to add a site
+
+how to edit one vue in runtime
+
+how to build the site
+
+how thinks work (complicated because i can´t explain)
+
 ## what you need
 
 install node.js from their official website
@@ -37,16 +51,6 @@ type "npm i"
 
 type "node .\server.js"
 
-## additional stuff that gets updated
-
-#### in frontend/root, you do nothing, that is the data build from vite
-
-the server uses this for the website
-
-#### in viteEdit you create the sites
-
-read the readme in it or you are going to be lost
-
 ## how to add a site
 in "src/frontend/viteEdit"
 copy paste folder "copyMe"
@@ -70,12 +74,12 @@ in console type 'npm run dev'
 
 you cant edit multiple with this
 
-## how to build
+## how to build the site
 in "src/frontend/viteBuild" in console type 'npm run build'
 start editing the files in "src/frontend/viteBuild/src/"
 
 
-## how thinks work (complicated because i can´t explain):
+## how thinks work (complicated because i can´t explain)
 Step 1. The "vite.config.js" looks for the given sites, where it looks for HTML files
 
 // what is needed for multiple sites
