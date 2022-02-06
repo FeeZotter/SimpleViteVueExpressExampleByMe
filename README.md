@@ -15,7 +15,7 @@ at example making the file "footer.vue" and only adding /<Footer//> (+ import) s
 
 what you need
 
-how to test the vue&vite funktionality with server
+[how to test the vue&vite funktionality with server](#how to test the vue&vite funktionality with server)
 
 how to add a site
 
