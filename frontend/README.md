@@ -6,3 +6,5 @@ the server uses this for the website
 #### in viteEdit you create the sites
 
 read the readme in it or you are going to be lost
+
+## how the thing works
