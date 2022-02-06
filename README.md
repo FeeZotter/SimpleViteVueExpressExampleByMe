@@ -4,17 +4,18 @@ express is for basic server funktionality
 
 vite builds and treeshakes content to pictures(&co), html, css & js that can easily used by the browser
 
-as a base it uses the content of "frontend/viteEdit"
+here it uses the content of "frontend/viteEdit"
 
 vue is a framework that provides html, css & js in a single file and every file can be used as a module in other sites
 
-at example making the file "footer.vue" and only adding /<Footer//> (+ import) somewhere in the code and you have a standatr footer everywhere
+at example making the file "footer.vue" and only adding /<Footer//> (+ import) somewhere in the code and you have a standard footer everywhere you need even multiple
 
 ## what you need
 
 install node.js from their official website
 
 ## how to test the server funktionality
+
 open folder "backend" in a console/terminal
 
 type "npm i"
@@ -22,6 +23,7 @@ type "npm i"
 type "node .\server.js"
 
 ## how to test the vue&vite funktionality with server
+
 open folder "frontend/viteEdit" in a console/terminal
 
 type "npm i"
@@ -99,6 +101,3 @@ To Step 2. a page like "copyMe" has is "index.html" in a folder named "copyMe" s
 it would be a problem if 2 index.html want to be in one folder (viteEdit)
 
 Another problem too would be if they have no seperate js and vue, why the other things on the list are so name sensitive too
- 
-
-
