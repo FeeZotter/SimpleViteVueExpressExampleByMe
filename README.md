@@ -73,5 +73,32 @@ in "src/frontend/viteBuild" in console type 'npm run build'
 start editing the files in "src/frontend/viteBuild/src/"
 
 
-## how thinks work:
+## how thinks work (complicated because i can´t explain):
+Step 1. The "vite.config.js" looks for the given sites, where it looks for HTML files
+
+// what is needed for multiple sites
+
+Step 2. The normal startpage (index.html) is directly in "viteEdit" so it is the main site at the end.
+
+// what is needed because we want no hirarchie over our main index file
+
+Step 3. It links to its own "src/index/main.js" that is dedicated for this only the main page
+
+// what is needed to bake a bride to Vue
+
+Step 4. The js file links to the "Vue.js" in its own folder to get the final content
+
+// where the bridge to Vue gets build
+
+Step 5. Not really anything to say, there you can get components from the componentsfolder and such
+
+// what is the idea of this thing
+
+To Step 2. a page like "copyMe" has is "index.html" in a folder named "copyMe" so it can have its own index.html file
+ 
+it would be a problem if 2 index.html want to be in one folder (viteEdit)
+
+Another problem too would be if they have no seperate js and vue, why the other things on the list are so name sensitive too
+ 
+
 
