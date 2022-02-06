@@ -99,7 +99,7 @@ Step 5. Not really anything to say, there you can get components from the compon
 
 // what is the idea of this thing
 
-To Step 2. a page like "copyMe" has is "index.html" in a folder named "copyMe" so it can have its own index.html file
+To Step 2. a page like "copyMe" has its "index.html" in a folder named "copyMe" so it can have its own index.html file
  
 it would be a problem if 2 index.html want to be in one folder (viteEdit)
 
