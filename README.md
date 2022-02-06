@@ -79,7 +79,7 @@ start editing the files in "src/frontend/viteBuild/src/"
 
 
 ## how things work (complicated because i can´t explain)
-Step 1. The "vite.config.js" looks for the given sites, where it looks for HTML files
+Step 1. The "vite.config.js" looks for the given sites (HTML files)
 
 // what is needed for multiple sites
 
