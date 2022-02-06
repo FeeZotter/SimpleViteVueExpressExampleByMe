@@ -13,17 +13,15 @@ at example making the file "footer.vue" and only adding /<Footer//> (+ import) s
 # content (links are get added)
 [what you need](#what-you-need)
 
-what you need
-
 [how to test the vue&vite funktionality with server](#how-to-test-the-vuevite-funktionality-with-server)
 
-how to add a site
+[how to add a site](#how-to-add-a-site)
 
-how to edit one vue in runtime
+[how to edit one vue in runtime](#how-to-edit-one-vue-in-runtime)
 
-how to build the site
+[how to build the site](#how-to-build-the-site)
 
-how thinks work (complicated because i can´t explain)
+[how thinks work (complicated because i can´t explain)](#how-thinks-work-complicated-because-i-cant-explain)
 
 ## what you need
 
