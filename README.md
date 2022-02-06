@@ -104,4 +104,4 @@ To Step 2. a page like "copyMe" has is "index.html" in a folder named "copyMe" s
  
 it would be a problem if 2 index.html want to be in one folder (viteEdit)
 
-Another problem too would be if they have no seperate js and vue, why the other things on the list are so name sensitive too
+Another problem too would be if they have no seperate js and vue, why the other things on the list are so name sensitive
