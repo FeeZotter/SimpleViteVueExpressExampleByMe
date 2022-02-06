@@ -1,6 +1,15 @@
-# please help me improve the README.me
-and i dont know how to make it more easy
- 
+# introducion
+
+As i tried to build multiple vue websites with vite i had some problems. 
+
+After a while i found this, but i dont think its very simple to understand even if it works.
+
+To add another site there have to be multiple acpects to do correctly or it is going to fail building.
+
+Following the errors helped every time to see that i can´t follow my tutorial.
+
+Hope it helps someone
+
 ## how to test the server funktionality
 open folder "backend" in a console/terminal
 
