@@ -32,14 +32,14 @@ type "npm i"
 
 type "node .\server.js"
 
+## additional stuff that gets updated
 
+#### in frontend/root, you do nothing, that is the data build from vite
 
-### Readme.md´s
-backend has none, it is too simple
+the server uses this for the website
 
-frontend has one with an info what the folders contain and how it works
+#### in viteEdit you create the sites
 
-frontend/viteEdit has a tutorial to add another site
+read the readme in it or you are going to be lost
 
-thanks for reading 
-
+## how the thing works
