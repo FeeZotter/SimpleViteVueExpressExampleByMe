@@ -1,6 +1,6 @@
 # introducion
 
-express is for basic server funktionality
+express is for basic server functionality
 
 vite builds and treeshakes content to pictures(&co), html, css & js that can easily used by the browser
 
@@ -13,7 +13,7 @@ at example making the file "footer.vue" and only adding < Footer / > (+ import) 
 # content of this site
 [what you need](#what-you-need)
 
-[how to test the vue&vite funktionality with server](#how-to-test-the-vuevite-funktionality-with-server)
+[how to test the vue&vite functionality with server](#how-to-test-the-vuevite-functionality-with-server)
 
 [how to add a site](#how-to-add-a-site)
 
@@ -27,7 +27,7 @@ at example making the file "footer.vue" and only adding < Footer / > (+ import) 
 
 install node.js from their official website
 
-## how to test the server funktionality
+## how to test the server functionality
 
 open folder "backend" in a console/terminal
 
@@ -35,7 +35,7 @@ type "npm i"
 
 type "node .\server.js"
 
-## how to test the vue&vite funktionality with server
+## how to test the vue&vite functionality with server
 
 open folder "frontend/viteEdit" in a console/terminal
 
